@@ -4,7 +4,8 @@ Hello and welcome to my beluga epigenetic clock file repository.
 
 This folder contains the code I used to build the Cook Inlet beluga epigenetic clock presented in this paper: 
 
-+ Citation 
+Bors EK, Baker CS, Wade PR, O'Neill KB, Shelden KEW, Thompson MJ, Fei Z, Jarman S, and Horvath S (2021). An epigenetic clock to estimate the age of living beluga whales. Evol Appl. https://doi.org/10.1111/ eva.13176
+
 
 
 The files include: 
